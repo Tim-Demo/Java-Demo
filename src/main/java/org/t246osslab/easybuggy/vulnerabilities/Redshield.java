@@ -10,7 +10,7 @@ import java.util.Locale;
 
 public class Redshield extends UnrestrictedSizeUploadServlet {
 // test abc
-// test xyz
+//
 
     @Override
     protected void service(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
