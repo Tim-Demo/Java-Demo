@@ -1,4 +1,4 @@
 package org.t246osslab.easybuggy.vulnerabilities;
 
-public class testiii {
+public class testyyy {
 }
